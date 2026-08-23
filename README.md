@@ -119,7 +119,7 @@ Released under the MIT License. See [LICENSE](LICENSE).
 
 ## 👤 Author
 
-Created by **Zakarya Bellebouk**.
+Created by **Zakarya Belleboukh**.
 
 - GitHub: [@zakaryabelleboukh](https://github.com/zakaryabelleboukh)
 
